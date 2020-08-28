@@ -1,0 +1,10 @@
+1,6,FEMALE,FALSE,FALSE,Canada,Caucasian
+2,3,MALE,TRUE,FALSE,United States,Mexican
+3,2,FEMALE,FALSE,FALSE,China,Asian
+4,4,MALE,TRUE,TRUE,Japan,Asian
+5,6,FEMALE,FALSE,FALSE,Canada,Caucasian
+6,7,MALE,TRUE,TRUE,Canada,African American
+7,4,FEMALE,FALSE,FALSE,United States,Indian
+8,5,MALE,TRUE,FALSE,Franc,Caucasian
+9,3,FEMALE,FALSE,TRUE,England,Indian
+10,6,MALE,TRUE,FALSE,Canada,Caucasian
