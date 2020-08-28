@@ -1,0 +1,10 @@
+8,5,MALE,true,false,France,Caucasian
+6,7,MALE,true,true,Canada,African America
+10,6,MALE,true,false,Canada,Caucasian
+2,3,MALE,true,false,United States,Mexican
+4,4,MALE,true,true,Japan,Asian
+7,4,FEMALE,false,false,United States,Indian
+5,6,FEMALE,false,false,Canada,Caucasian
+3,2,FEMALE,false,false,China,Asian
+1,6,FEMALE,false,false,Canada,Caucasian
+9,3,FEMALE,false,true,England,Indian
